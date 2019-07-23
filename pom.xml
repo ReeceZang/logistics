@@ -16,6 +16,7 @@
 	    <artifactId>logistics-common</artifactId>
 	    <version>0.0.1-SNAPSHOT</version>
   	</dependency>
+
   </dependencies>
   <modules>
   	<module>logistics-manager-pojo</module>
